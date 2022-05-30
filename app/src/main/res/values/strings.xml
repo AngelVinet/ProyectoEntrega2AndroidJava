@@ -1,4 +1,5 @@
 <resources>
+    <!--String que se ocupan en la aplicación-->
     <string name="app_name">Evaluacion2</string>
     <string name="bienvenida">Bienvenido/a</string>
     <string name="nombre">Ingrese su Nombre Completo</string>

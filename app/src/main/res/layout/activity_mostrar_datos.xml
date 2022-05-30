@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".mostrar_datos">
 
-
+    <!--Componentes del layout y sus atributos-->
     <TextView
         android:id="@+id/tvConfirmar"
         android:layout_width="wrap_content"
